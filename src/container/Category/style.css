@@ -1,0 +1,21 @@
+.modal-header{
+    padding: 15px 15px;
+    background-color: #333333;
+}
+.modal-title{
+    font-size: 14px;
+    color: #ffffff;
+   
+}
+.modal-footer{
+    padding: 15px 15px;
+}
+.actionbtns{
+    display: flex;
+    align-items: center;
+}
+.actionbtns button{
+    border: none;
+    font-size: 14px;
+    margin: 0 5px;
+}
